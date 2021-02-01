@@ -6,7 +6,7 @@ namespace HomeworkLesson6
     {
         static void Main(string[] args)
         {      
-            // assignment1();
+            assignment1();
             assignment2();
         }
         static void assignment1()
